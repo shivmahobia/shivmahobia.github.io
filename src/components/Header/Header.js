@@ -25,9 +25,10 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://linkedin.com/in/shivmahobia"
-            target="_blank"
+            href="./Shiv_Mahobia_Resume_V1.pdf"
+            download="Shiv_Mahobia_Resume_V1"
             rel="noopener noreferrer"
+    
           >
             Resume
           </a>
