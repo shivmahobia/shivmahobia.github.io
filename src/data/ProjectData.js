@@ -1,14 +1,23 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/renr-responsive.png",
-    title: "Demo Safety App",
+    img: "/Project_1.png",
+    title: "State Housing Property Registration",
     description:
-      "Demo",
-    tech_stack: ["React", "Firebase"],
+      "An app for Property Registration.",
+    tech_stack: ["Ionic 7", "Sql Server", "NodeJS", "Express", "Stripe"],
     github_url: "",
     demo_url: "",
   },
+  // {
+  //   img: "/renr-responsive.png",
+  //   title: "Demo Safety App",
+  //   description:
+  //     "Demo",
+  //   tech_stack: ["React", "Firebase"],
+  //   github_url: "",
+  //   demo_url: "",
+  // },
   // {
   //   img: "/renr-responsive.png",
   //   title: "RENR Safety App",
