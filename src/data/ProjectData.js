@@ -6,7 +6,7 @@ export const ProjectList = [
     description:
       "An app for Property Registration.",
     tech_stack: ["Ionic 7", "Sql Server", "NodeJS", "Express", "Stripe"],
-    github_url: "",
+    github_url: "https://github.com/shivmahobia/State-Housing-Property-Registration",
     demo_url: "",
   },
   // {
