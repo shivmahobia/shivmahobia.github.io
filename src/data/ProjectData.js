@@ -9,15 +9,15 @@ export const ProjectList = [
     github_url: "https://github.com/shivmahobia/State-Housing-Property-Registration",
     demo_url: "",
   },
-  // {
-  //   img: "/renr-responsive.png",
-  //   title: "Demo Safety App",
-  //   description:
-  //     "Demo",
-  //   tech_stack: ["React", "Firebase"],
-  //   github_url: "",
-  //   demo_url: "",
-  // },
+  {
+    img: "/Project_2.png",
+    title: "CRUD OPERATION",
+    description:
+      "Manage User",
+    tech_stack: ["MongoDB","NodeJS", "express", "ejs"],
+    github_url: "https://github.com/shivmahobia/CRUD-MongoDB-NodeJS",
+    demo_url: "",
+  },
   // {
   //   img: "/renr-responsive.png",
   //   title: "RENR Safety App",
