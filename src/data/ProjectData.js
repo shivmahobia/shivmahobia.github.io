@@ -18,6 +18,15 @@ export const ProjectList = [
     github_url: "https://github.com/shivmahobia/CRUD-MongoDB-NodeJS",
     demo_url: "",
   },
+  {
+    img: "/Project_3.png",
+    title: "PRSU LIBRARY",
+    description:
+      "A Mobile Application for Pt. Ravishankar Shukla University Library",
+    tech_stack: ["Ionic (Angular)","php"],
+    github_url: "https://github.com/shivmahobia/PSRU-LIBRARY",
+    demo_url: "https://github.com/shivmahobia/PSRU-LIBRARY/blob/main/PRSU.apk",
+  },
   // {
   //   img: "/renr-responsive.png",
   //   title: "RENR Safety App",
